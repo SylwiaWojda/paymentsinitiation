@@ -8,7 +8,6 @@ public class DebtorServiceStarter {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DebtorServiceStarter.class, args);
-		System.out.println("Hello World");
 	}
 
 }
